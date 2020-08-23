@@ -1,0 +1,22 @@
+.active {
+    color: #003A78 !important;
+}
+
+.border-red {
+    border-color: #ff4444;
+    color: #ff4444 !important;
+}
+
+.error {
+    color: #ff4444;
+}
+
+.border-green {
+    border-color: #00C851;
+    color: #00C851 !important;
+}
+
+.fa-spinner {
+    font-size: 14px;
+    color: #7047d7;
+}
